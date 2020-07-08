@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\content_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\money.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_qlthu_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\nav_header_qlthu_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_qlthu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\app_bar_qlthu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_dira.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\anim\\anim_dira.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_lv_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\custom_lv_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_thongke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_thongke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_muc_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\dialog_muc_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qlthu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_qlthu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_qlthu_chi_drawer.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\activity_qlthu_chi_drawer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_qlthu_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\content_qlthu_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_newpassword.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\newpassword.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doi_mat_khau.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_doi_mat_khau.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_people.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_date.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\nav_header_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phannhom.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\phannhom.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_muc_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_muc_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_lv_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\custom_lv_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_qlthu_drawer.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\activity_qlthu_drawer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_key.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_them_thanh_cong.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\them_thanh_cong.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_edit_black_24dp.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_custom.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\edittext_custom.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_lai_mat_khau.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\lay_lai_mat_khau.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qlthu_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_qlthu_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallet.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\wallet.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_qlthu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\content_qlthu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_them_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\dialog_them_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_infor.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_infor.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money1.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\money1.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thang_nay.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_thang_nay.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_them_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\dialog_them_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombuttonred.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\custombuttonred.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_lv.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\custom_lv.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toast.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\toast.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money4.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\money4.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\app_bar_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lydo.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\lydo.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lvtien.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\lvtien.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_lv_muc_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\custom_lv_muc_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loaigiaodich.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\loaigiaodich.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_lv_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\custom_lv_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombutton.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\custombutton.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_muc_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_muc_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warning.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_qlthu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\nav_header_qlthu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_ngay_nay.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_ngay_nay.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_enter.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\anim\\anim_enter.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_nam_nay.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_nam_nay.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_refresh.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_done.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\done.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_muc_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\dialog_muc_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trangthai.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\trangthai.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_thu.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_thu.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_lv_muc_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\custom_lv_muc_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dang_ky.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit_black_24dp.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_edit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_thong_ke_drawer.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\activity_thong_ke_drawer.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thong_ke.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_thong_ke.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tuy_chon.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_tuy_chon.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chart.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\activity_chart.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_infor.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_infor.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_thu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chart.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\chart.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_qlthu_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\app_bar_qlthu_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_qlthu.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\qlthu.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\layout\\fragment_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lvchi.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\lvchi.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\menu_qlthu_chi.xml.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\menu\\qlthu_chi.xml"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thongke.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_thongke.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\projects\\Android\\doAn\\TTCN_qltc\\QuanLyTaiChinh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    }
+]
